@@ -11,4 +11,5 @@ print(resta)
 division= n1/n2
 print(division)
 
-
+multiplicacion= n1 * n2
+print(multiplicacion)
